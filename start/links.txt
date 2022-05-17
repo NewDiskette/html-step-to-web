@@ -1,0 +1,13 @@
+https://youtube.com/playlist?list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--
+
+Ссылка на макет - https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles
+
+Скачать CSS Reset - https://gist.github.com/DavidWells/18e73022e723037a50d6
+
+Паблик ВК - https://vk.com/steptooweb
+Паблик телеграм - https://t.me/step_to_web
+
+Сервис иконок - https://www.flaticon.com
+
+https://google-webfonts-helper.herokuapp.com/fonts
+https://google-webfonts-helper.herokuapp.com/fonts/lato?subsets=latin
